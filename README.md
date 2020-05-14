@@ -1,2 +1,3 @@
-# notebooks
-Notebooks for visualising trade data
+# Notebooks
+
+Notebook experiments for visualising trade data
